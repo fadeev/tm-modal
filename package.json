@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "devDependencies": {
     "@vue/cli": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "vue": "^2.6.10"
   },
   "scripts": {
